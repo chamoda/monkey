@@ -1,3 +1,3 @@
-module github.com/chamoda/monkey
+module monkey
 
 go 1.24.4
